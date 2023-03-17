@@ -1,2 +1,3 @@
 echo 'Goodbye!'
-cat /etc/os-release
+
+echo "Uptime of this system: $(uptime)"
